@@ -1,5 +1,5 @@
 <?php
-require_once 'application.php';
+include 'application.php';
 
 $app = new Application();
 

@@ -1,6 +1,6 @@
 <?php
 
-require_once 'sessios.php';
+include 'sessios.php';
 
 class Application
 {
